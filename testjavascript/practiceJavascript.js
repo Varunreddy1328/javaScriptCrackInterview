@@ -6,4 +6,6 @@ function mulitply(a,b){
     return a*b;
 }
 
-console.log("Multiplication of a and b is: " + mulitply(5, 10));
+console.log("Multiplication text of a and b is: " + mulitply(5, 10));
+
+console.log("--- IGNORE ---");
